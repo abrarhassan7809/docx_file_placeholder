@@ -1,0 +1,20 @@
+{
+    "adresse de l'employé": {"value": "5 rue testos", "label": "Normal"},
+    "adresse de l'entreprise": {"value": "9 rue testao", "label": "Normal"},
+    "adresse salarié": {"value": "8 rue dut test", "label": "bold"},
+    "code postal entreprise": {"value": "00000", "label": "Normal"},
+    "code postal salarié": {"value": "11111", "label": "bold"},
+    "date d'embauche": {"value": "tomorrow", "label": "Normal"},
+    "date de fin": {"value": "yesterday", "label": "Normal"},
+    "date du jour": {"value": "today", "label": "Normal"},
+    "gender": {"value": "Masculin", "label": "Normal"},
+    "nom de l'employé": {"value": "test", "label": "Normal"},
+    "nom de l'entreprise": {"value": "testu", "label": "Normal"},
+    "nom salarié": {"value": "testa", "label": "bold"},
+    "prenom salarié": {"value": "testo", "label": "Normal"},
+    "select_1": {"value": "lettre remise en main propre", "label": "Normal"},
+    "select_2": {"value": "ventes", "label": "Normal"},
+    "titre post": {"value": "leremipsum", "label": "Normal"},
+    "ville salarié": {"value": "testo", "label": "bold"},
+    "ville entreprise": {"value": "testicity", "label": "Normal"}
+}
